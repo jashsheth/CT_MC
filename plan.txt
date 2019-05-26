@@ -1,0 +1,5 @@
+3 phase motor 3 analog
+temp sensor lm35 1 analog
+vibration sensor 1 digital pwm
+display 6 digital inputs
+esp01 serial ports

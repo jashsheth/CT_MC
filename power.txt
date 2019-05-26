@@ -1,0 +1,2 @@
+instantaneous power=instantaneous current *instantaneous voltage
+energy = instantaneous power * time
